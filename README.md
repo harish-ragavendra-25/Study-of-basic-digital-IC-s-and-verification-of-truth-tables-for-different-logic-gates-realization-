@@ -79,7 +79,6 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 ## RegisterNumber:  212222230020
 ## Logic symbol & Truthtable
 ![OUTPUT](truthtable - Copy.png)
-RTL realization
 ## Output:
 ![OUTPUT](ex1digitalgates.png)
 ## WAVEFORM
