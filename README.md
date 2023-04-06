@@ -76,10 +76,11 @@ endmodule
 ```
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: BASKARAN V
-RegisterNumber:  212222230020
+## Developed by: BASKARAN V
+## RegisterNumber:  212222230020
 */
-Logic symbol & Truthtable
+## Logic symbol & Truthtable
+![OUTPUT](truthtable.png)
 RTL realization
 ## Output:
 ![OUTPUT](ex1digitalgates.png)
